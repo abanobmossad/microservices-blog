@@ -1,0 +1,20 @@
+{
+  "name": "microservice-blog",
+  "version": "1.0.0",
+  "description": "microservice blog",
+  "license": "MIT",
+  "author": "Abanob Mossad <abanobmossad@gmail.com>",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^24.0.1",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-security": "^1.4.0",
+    "prettier": "^2.0.5"
+  }
+}
